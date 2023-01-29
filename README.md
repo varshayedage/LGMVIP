@@ -1,2 +1,2 @@
 # Calculator
-I develop this calculator to using HTML,CSS . To visit this website https://github.com/Nik-debug-max
+I develop this calculator to using HTML,CSS .https://github.com/varshayedage/LGMVIP
